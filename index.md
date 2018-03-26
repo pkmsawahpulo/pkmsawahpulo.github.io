@@ -5,7 +5,7 @@ layout: default
 Hello World!
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to index_coba](index-coba).
+[Link to index_coba](index_coba).
 [Link to another page](another-page).
 
 There should be whitespace between paragraphs.
