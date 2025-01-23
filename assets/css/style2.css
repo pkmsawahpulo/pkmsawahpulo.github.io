@@ -5,3 +5,10 @@ body .page-header {
     background: url("/assets/img/Tampak depan.jpg") center no-repeat;
     background-size: cover;
 }
+
+hgroup {
+    border: 5px solid #fff;
+    padding: .5em 3em;
+    background-color: rgba(0,0,0,0.2);
+    z-index: 2;
+}
