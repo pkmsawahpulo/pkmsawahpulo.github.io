@@ -12,7 +12,7 @@ layout: default
 *   <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6zoWOztqn-0SqClLF7E6zA9C0O4zbrXI444mnDV6LulAVhw/viewform?usp=dialog">Skrining Hipertensi</a>
 *   <a href="https://docs.google.com/forms/d/e/1FAIpQLSc13hQggcO2HN0HDyXoDHZqSn8ACRXqixsKa1nBGgzKx-uGKQ/viewform?usp=sharing">Skrining Stroke</a>
 *   <a href="https://docs.google.com/forms/d/e/1FAIpQLSduq_YbYR5_Wv2mGroP2-btVatodtv203c12FbQBjGtIUkXAQ/viewform?usp=sharing">Skrining Jantung</a>
-*   <a href="https://docs.google.com/forms/d/e/1FAIpQLScg-_0RG-EIcSYSFKnI6nZtbIYuUM-xotxeThsbCUjP5rHlXw/viewform?usp=sharing">Skrining Kanker</a> Serviks
+*   <a href="https://docs.google.com/forms/d/e/1FAIpQLScg-_0RG-EIcSYSFKnI6nZtbIYuUM-xotxeThsbCUjP5rHlXw/viewform?usp=sharing">Skrining Kanker Serviks</a>
 *   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeyzbkwF3bMPg893zuYv4gjRf325ZEl5HQoWmXydGg_K_FJ1Q/viewform?usp=dialog">Skrining Kanker Payudara</a>
 *   <a href="https://docs.google.com/forms/d/e/1FAIpQLSf30AdIfcocCs8LyjOjSzQdwhITl8En3-vvOfkupmZeawwWBg/viewform?usp=dialog">Skrining TBC</a>
 *   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdoQ0X5H1SidVKkvlxLl-9WOx7JiTcmadVxkcmmz9r2htIiYA/viewform?usp=sharing">Skrining Anemia & Thalassemia</a>
