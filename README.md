@@ -1,8 +1,8 @@
 ### Website Puskesmas Sawah Pulo
 
 Website for Puskesmas Sawah Pulo, under the jurisdiction of Public Health Office of The City of Surabaya, East java, Indonesia.
-Maintained by [maintainer][Hizkia Adi Surya].
-Generated with github pages and uses [cayman][Cayman Theme].
+Maintained by [Hizkia Adi Surya][maintainer].
+Generated with github pages and uses [Cayman Theme][cayman].
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
