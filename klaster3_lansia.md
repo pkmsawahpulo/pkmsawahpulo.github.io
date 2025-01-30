@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### [](#header-1)Klaster 3 Usia Dewasa
+### [](#header-1)Klaster Usia Dewasa
 * * *
 **Daftar Skrining**
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo8mJRvtJupUKBppieDP3oBp0i-2WN7aNH0VF5HSKaAUQohw/viewform?usp=sharing">Skrining Obesitas</a>
@@ -21,5 +21,4 @@ layout: default
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFawXTnhH76I6_23SHQXpPPql2TCcL43IsnzTtvogSWf-q4Q/viewform?usp=sharing">Skrining Kebugaran</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeh6PUJx8HXZ3w9O0x-RROnjlFMo6hP9RkAln36KUAJXCrDNg/viewform?usp=sharing">Skrining SRQ</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTIkyR23g9USd2h7RkUOGnQwx1_BKzL2po0KnNpErdrVtc3Q/viewform?usp=sharing">Skrining Geriatri</a>
--   Skrining Malaria
 -   [Kembali](skrining_ilp)

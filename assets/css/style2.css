@@ -6,6 +6,11 @@ body .page-header {
     background-size: cover;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+}
+
 hgroup {
     border: 5px solid #fff;
     padding: .5em 3em;
@@ -18,6 +23,8 @@ hgroup {
     text-align: center;
     position: fixed;
     bottom: 0;
+    flex: 0 0 100px;
     width: 100%;
     z-index: 1;
+    margin-top: auto;
 }

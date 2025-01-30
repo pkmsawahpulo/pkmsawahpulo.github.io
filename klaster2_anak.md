@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### [](#header-1)Klaster 2 Anak Usia Sekolah & Remaja
+### [](#header-1)Klaster Anak Usia Sekolah & Remaja
 * * *
 **Daftar Skrining**
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfPMxgpLQl4Y8egxbYUAUsmU9dHfpu7v6jM17sAu90WjSQWOw/viewform?usp=sharing">Skrining Tumbuh Kembang dan Gizi</a>
@@ -17,6 +17,5 @@ layout: default
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdoQ0X5H1SidVKkvlxLl-9WOx7JiTcmadVxkcmmz9r2htIiYA/viewform?usp=sharing">Skrining Anemia & Thalassemia</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFawXTnhH76I6_23SHQXpPPql2TCcL43IsnzTtvogSWf-q4Q/viewform?usp=sharing">Skrining Kebugaran</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSc-sx0kfyXE7VJYPeAFPfkC-Lt_JjFbuJJ8uyAVBEQNa9Pb2Q/viewform?usp=sharing">Skrining HIV</a>
--   Skrining Malaria
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSccI7dagMdhKdHt-ZBmvQ9cQayHKZEjK1bFoth7S1NySgD50Q/viewform?usp=sharing">Skrining Imunisasi Tetanus bagi WUS</a>
 -   [Kembali](skrining_ilp)
