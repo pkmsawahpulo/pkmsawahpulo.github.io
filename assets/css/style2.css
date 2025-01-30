@@ -21,7 +21,6 @@ hgroup {
 .site-footer {
     padding: 1em 0;
     text-align: center;
-    position: fixed;
     bottom: 0;
     flex: 0 0 100px;
     width: 100%;
