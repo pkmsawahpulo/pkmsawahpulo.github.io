@@ -19,6 +19,5 @@ layout: default
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSf30AdIfcocCs8LyjOjSzQdwhITl8En3-vvOfkupmZeawwWBg/viewform?usp=sharing">Skrining TBC</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCc8vrp1QfLkR38OMOY2xkxGd0bvkHkw6UYjytXF8T68PUMQ/viewform?usp=sharing">Skrining Indera</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFawXTnhH76I6_23SHQXpPPql2TCcL43IsnzTtvogSWf-q4Q/viewform?usp=sharing">Skrining Kebugaran</a>
--   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeh6PUJx8HXZ3w9O0x-RROnjlFMo6hP9RkAln36KUAJXCrDNg/viewform?usp=sharing">Skrining SRQ</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTIkyR23g9USd2h7RkUOGnQwx1_BKzL2po0KnNpErdrVtc3Q/viewform?usp=sharing">Skrining Geriatri</a>
 -   [Kembali](skrining_ilp)

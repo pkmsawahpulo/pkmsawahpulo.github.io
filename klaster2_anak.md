@@ -12,8 +12,6 @@ layout: default
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUgCeEIT9p0n3fB8Lhn5bQEZJrW1UX8DtkMa6KSdO0flXu7w/viewform?usp=sharing">Skrining Diabetes Melitus<a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6zoWOztqn-0SqClLF7E6zA9C0O4zbrXI444mnDV6LulAVhw/viewform?usp=sharing">Skrining Hipertensi</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCHF8hT0_-xuEE4yt5rXKsPa7EdngQEGEwPgKF6ewDFUrtCA/viewform?usp=sharing">Skrining TB Anak</a>
--   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdXzQHQ_NRx4vI2bcg4YPq7rVrfVpBsCixw1XzS8gBPcvksmQ/viewform?usp=sharing">Skrining SDQ 4-11 Tahun</a>
--   <a href="https://docs.google.com/forms/d/e/1FAIpQLSekZ7k1ISMv2gJPnfjQgU5EVgHyBGTLjHr9JyPD5RpS9lTp9w/viewform?usp=sharing">Skrining SDQ 11-18 Tahun</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdoQ0X5H1SidVKkvlxLl-9WOx7JiTcmadVxkcmmz9r2htIiYA/viewform?usp=sharing">Skrining Anemia & Thalassemia</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFawXTnhH76I6_23SHQXpPPql2TCcL43IsnzTtvogSWf-q4Q/viewform?usp=sharing">Skrining Kebugaran</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSc-sx0kfyXE7VJYPeAFPfkC-Lt_JjFbuJJ8uyAVBEQNa9Pb2Q/viewform?usp=sharing">Skrining HIV</a>
