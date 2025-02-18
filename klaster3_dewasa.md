@@ -19,7 +19,6 @@ layout: default
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSf30AdIfcocCs8LyjOjSzQdwhITl8En3-vvOfkupmZeawwWBg/viewform?usp=sharing">Skrining TBC</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCc8vrp1QfLkR38OMOY2xkxGd0bvkHkw6UYjytXF8T68PUMQ/viewform?usp=sharing">Skrining Indera</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFawXTnhH76I6_23SHQXpPPql2TCcL43IsnzTtvogSWf-q4Q/viewform?usp=sharing">Skrining Kebugaran</a>
--   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeh6PUJx8HXZ3w9O0x-RROnjlFMo6hP9RkAln36KUAJXCrDNg/viewform?usp=sharing">Skrining SRQ</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4na_uxVH6OwYlAd1oyredk7q-nJdah4sOp-sB0AYQ9P3mdg/viewform?usp=sharing">Skrining Hepatitis</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLScle7ZEbn4D7ow4C4kgWK777yA6ybN_kQPgHOEAcUDKbizF_w/viewform?usp=sharing">Skrining Layak Hamil</a>
 -   <a href="https://docs.google.com/forms/d/e/1FAIpQLSccI7dagMdhKdHt-ZBmvQ9cQayHKZEjK1bFoth7S1NySgD50Q/viewform?usp=sharing">Skrining Imunisasi Tetanus bagi WUS</a>
